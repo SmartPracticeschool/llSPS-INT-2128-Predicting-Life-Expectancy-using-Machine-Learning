@@ -1,7 +1,0 @@
-node_modules
-.DS_Store
-NPM Scripts
-package.json
-package-lock.json
-styles.css
-dist
